@@ -1,0 +1,14 @@
+{
+  "name": "skill-tp",
+  "owner": {
+    "name": "giraldidev"
+  },
+  "plugins": [
+    {
+      "name": "trafego-pago",
+      "source": "./",
+      "description": "Analista e Gestor de Tráfego Pago sênior para Meta Ads: persona/ICP, análise de oferta, estrutura de campanhas, kits de anúncios, copywriting, carrosséis e otimização contínua — alinhado ao Meta Andromeda e às Políticas de Publicidade da Meta.",
+      "category": "marketing"
+    }
+  ]
+}
